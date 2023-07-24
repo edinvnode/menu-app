@@ -1,2 +1,1 @@
-# menu-app
-A menu application that shows menu for breakfast and lunch.
+# react-projects-5-menu
